@@ -10,11 +10,9 @@ test@leid_docker:~/share$ wc -c test_command.gtf
 
 2. 筛选并输出示例文件中以 chr_ 起始，并且基因id为 YDL248W 的行
 ```bash
-test@leid_docker:~/share$ grep '^chr_' test_command.gtf | grep 'YDL248W' test_command.gtf
+test@leid_docker:~/share$ grep '^chr_' test_command.gtf | grep 'YDL248W'
 chr_IV  ensembl gene    1802    2953    .       +       .       gene_id "YDL248W"; gene_version "1";
 chr_IV  ensembl transcript      802     2953    .       +       .       gene_id "YDL248W"; gene_version "1";
-chromosome_IV   ensembl exon    1802    2953    .       +       .       gene_id "YDL248W"; gene_version "1";
-chromosome_IV   ensembl CDS     1802    950     .       +       0       gene_id "YDL248W"; gene_version "1";
 chr_IV  ensembl start_codon     1802    1804    .       +       0       gene_id "YDL248W"; gene_version "1";
 ```
 
