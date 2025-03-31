@@ -5,4 +5,4 @@
 ```
 利用Genome Browser浏览 1.Mapping的 Homework 得到的sam/bam文件，并仿照上文中的 examples截图展示一个 gene的区域。
 ```
-
+![alt text](b12fcf59ed2aa9083b44c0ca90ccff0.png)

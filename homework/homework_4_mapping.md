@@ -125,3 +125,12 @@ THA2-bwa.sam文件内容截取如下：
 1251-506	4	*	0	0	*	*	0	0	TTACTATTCTATTATTATACTTTATTG	*	AS:i:0	XS:i:0
 1252-505	4	*	0	0	*	*	0	0	TCACCACATAACTCTAAAATAAG	*	AS:i:0	XS:i:0
 ```
+
+
+## Part III. 1.1 Genome Browser
+
+作业要求
+```
+利用Genome Browser浏览 1.Mapping的 Homework 得到的sam/bam文件，并仿照上文中的 examples截图展示一个 gene的区域。
+```
+![alt text](b12fcf59ed2aa9083b44c0ca90ccff0.png)
